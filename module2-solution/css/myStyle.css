@@ -38,18 +38,20 @@ h1 {
 	background: maroon;
 	opacity: 0.7;
 	border: 1px black solid
-
+	
 }
+
 
 .article_container {
 
-	text-align: justify;
+	/*text-align: justify;*/
+	text-align: left;
 	color: white;
 	background: grey;
 	border: 1px black solid;
-	margin: 4px;
+	margin: 5px;
 	overflow: hidden;
-	border-radius: 15px;
+	border-radius: 10px;
 }
 
 .article_title {
@@ -60,14 +62,14 @@ h1 {
 	padding: 5px;	
 	border-left: 1px solid black;
 	border-bottom: 1px solid black;
-	border-bottom-left-radius: 15px;
+	border-bottom-left-radius: 10px;
 
 }
 
 .article_body {
 
 	clear: right;
-	padding: 5px;
+	padding: 10px;
 
 }
 
